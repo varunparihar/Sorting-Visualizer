@@ -1,0 +1,21 @@
+{
+    "name": "sorting-visualizer",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "build": "npm run build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nikarun/Sorting-Visualizer.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nikarun/Sorting-Visualizer/issues"
+    },
+    "homepage": "https://github.com/nikarun/Sorting-Visualizer#readme",
+    "keywords": [],
+    "description": ""
+}
