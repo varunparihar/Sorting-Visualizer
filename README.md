@@ -1,6 +1,6 @@
 # Sorting-Visualizer
 
-Live project link : https://sortingalgorithmvisualizer.netlify.app/
+Live project link : https://varunparihar.github.io/Sorting-Visualizer/
 
 This is a single page Application
 
