@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nikarun/Sorting-Visualizer.git"
+        "url": "git+https://github.com/varunparihar/Sorting-Visualizer.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/nikarun/Sorting-Visualizer/issues"
+        "url": "https://github.com/varunparihar/Sorting-Visualizer/issues"
     },
-    "homepage": "https://github.com/nikarun/Sorting-Visualizer#readme",
+    "homepage": "https://github.com/varunparihar/Sorting-Visualizer#readme",
     "keywords": [],
     "description": ""
 }
